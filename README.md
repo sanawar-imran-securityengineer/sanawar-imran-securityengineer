@@ -25,7 +25,65 @@
 🔐  Secure Software Design | Network Security
 🌍  Working with Provilance
 ```
+---
 
+## 🏆 Certifications
+
+### 🔍 SOC, SIEM & Threat Intelligence
+
+| Certificate | Issuer | Issued |
+|---|---|---|
+| Security Operations Center (SOC) | Cisco | Jun 2026 |
+| Splunk Search Expert 101 | Splunk | Aug 2026 |
+| Network Traffic and Logs Using IDS and SIEM Tools | Google | Jun 2026 |
+| Foundation Level Threat Intelligence Analyst | arcX | Mar 2026 |
+| Certified Cyber Threat Intelligence Analyst | Udemy | - |
+| Cyber Security Analyst | IBM | Jun 2026 |
+
+### 🛡️ Security Analyst & Risk Management
+
+| Certificate | Issuer | Issued |
+|---|---|---|
+| CompTIA Security+ & CySA+ (Training) | IBM | Jul 2026 |
+| CompTIA CySA+ Cybersecurity Analyst (Training) | Total Seminars | Aug 2026 |
+| CISSP Domain 1: Security and Risk Management | Infosec | Aug 2026 |
+| Information Security Risk Management for ISO 27001/27002 | Packt | Aug 2026 |
+
+### 🎯 Penetration Testing & Network Security
+
+| Certificate | Issuer | Issued |
+|---|---|---|
+| Penetration Testing and Vulnerability Scanning | Edureka | Aug 2026 |
+| Network Security | Cisco | Jun 2026 |
+| Cybersecurity and Network Defense Fundamentals | Edureka | Aug 2026 |
+| Network Architecture | Google | Jun 2026 |
+
+### 💻 Secure Software & AI Security
+
+| Certificate | Issuer | Issued |
+|---|---|---|
+| Developing Secure Software (LFD121) | The Linux Foundation | - |
+| AI-Powered Cyber Defense: Automating Security with Intelligent Agents | Packt | Jul 2026 |
+| AI Fundamentals | Google | Aug 2026 |
+
+<details>
+<summary><b>📚 Foundations & Other Certificates (click to expand)</b></summary>
+<br/>
+
+| Certificate | Issuer | Issued |
+|---|---|---|
+| Foundations of Cybersecurity | Google | Jun 2026 |
+| Cybersecurity Essentials | IBM | Jun 2026 |
+| Computer Networks and Network Security | IBM | Jun 2026 |
+| Information Security Fundamentals | EC-Council | Jun 2026 |
+| Foundations of Information Security and Incident Handling | Packt | Jun 2026 |
+| Cybersecurity Job Simulation | Mastercard | May 2026 |
+| Cybersecurity Job Search, Resume, and Interview Prep | IBM | Aug 2026 |
+| Cyber Security Fundamentals and Awareness Training | HP | - |
+
+</details>
+
+📎 Credential IDs aur verification links: [LinkedIn Licenses & Certifications](https://www.linkedin.com/in/sanawarimran-cybersecurity)
 ---
 
 ## 🧰 Tech & Tools
