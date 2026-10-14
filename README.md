@@ -6,10 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanawar-imran-securityengineer&color=00c9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanawarimran-cybersecurity)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanawarimran.pk@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Provilance-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://provilance.com/)
 
 </div>
 
