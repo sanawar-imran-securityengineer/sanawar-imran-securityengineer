@@ -86,6 +86,8 @@
 </details>
 
 📎 Credential IDs aur verification links: [LinkedIn Licenses & Certifications](https://www.linkedin.com/in/sanawarimran-cybersecurity)
+---
+---
 
 ## 🧰 Tech & Tools
 
